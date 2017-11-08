@@ -1,0 +1,12 @@
+e-Ventory:Evenet Management System
+
+GROUP MEMBERS
+
+PROJECT LEADER: Ryan Joseph R. Samonte
+APPLICATION ENGINEER: John Roderick T. Pepino
+DATABASE ENGINEERS: Bryan Julius A. Alano
+     	                        Kenneth H. Canada
+TECHNICAL DOCUMENTATION: Lowell Jay F. Vasquez
+
+
+e-Ventory Site: www.e-ventory.ga

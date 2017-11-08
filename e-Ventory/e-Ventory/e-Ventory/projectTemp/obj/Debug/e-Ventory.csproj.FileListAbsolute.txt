@@ -1,0 +1,141 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\projectTemp\projectTemp\bin\Debug\projectTemp.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\projectTemp\projectTemp\bin\Debug\projectTemp.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\projectTemp\projectTemp\bin\Debug\projectTemp.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\projectTemp\projectTemp\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\projectTemp\projectTemp\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\projectTemp\projectTemp\bin\Debug\MetroFramework.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\projectTemp\projectTemp\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\projectTemp\projectTemp\obj\Debug\projectTemp.Forms.announcementUserControl.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\projectTemp\projectTemp\obj\Debug\projectTemp.logIn_Form.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\projectTemp\projectTemp\obj\Debug\projectTemp.mainMenu_Form.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\projectTemp\projectTemp\obj\Debug\projectTemp.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\projectTemp\projectTemp\obj\Debug\projectTemp.signUp_Form.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\projectTemp\projectTemp\obj\Debug\e-Ventory.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\projectTemp\projectTemp\obj\Debug\projectTemp.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\projectTemp\projectTemp\obj\Debug\projectTemp.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\bin\Debug\projectTemp.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\bin\Debug\projectTemp.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\bin\Debug\projectTemp.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\bin\Debug\MetroFramework.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\obj\Debug\e-Ventory.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.Forms.announcementUserControl.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.logIn_Form.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.mainMenu_Form.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.signUp_Form.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\obj\Debug\e-Ventory.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\bin\Debug\eVentoryLibraries.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\bin\Debug\eVentoryLibraries.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.User_Control.systemLogs.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.User_Control.addEvent.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.User_Control.monitorEvent.resources
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\bin\Debug\projectTemp.exe.config
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.exe
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.pdb
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\bin\Debug\projectTemp.exe
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\bin\Debug\projectTemp.pdb
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\bin\Debug\eVentoryLibraries.dll
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\bin\Debug\MetroFramework.Design.dll
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\bin\Debug\MetroFramework.dll
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\bin\Debug\eVentoryLibraries.pdb
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\obj\Debug\e-Ventory.csprojResolveAssemblyReference.cache
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.User_Control.addEvent.resources
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.Forms.announcementUserControl.resources
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.logIn_Form.resources
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.mainMenu_Form.resources
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.Properties.Resources.resources
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.signUp_Form.resources
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.User_Control.monitorEvent.resources
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.User_Control.systemLogs.resources
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\projectTemp\obj\Debug\e-Ventory.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\projectTemp.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\projectTemp.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\projectTemp.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\AForge.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\AForge.Video.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\eVentoryLibraries.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\MetroFramework.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\Mmosoft.Facebook.Sdk.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\zxing.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\zxing.presentation.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\HtmlAgilityPack.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\eVentoryLibraries.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\Mmosoft.Facebook.Sdk.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\AForge.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\AForge.Video.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\zxing.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\zxing.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\zxing.presentation.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\zxing.presentation.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\HtmlAgilityPack.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\obj\Debug\e-Ventory.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.payment.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.dashboard.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.User_Control.addEvent.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.Forms.announcementUserControl.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.logIn_Form.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.mainMenu_Form.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.signUp_Form.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.User_Control.monitorEvent.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.registration.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.User_Control.systemLogs.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\obj\Debug\e-Ventory.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.participants.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.ticketscanner.resources
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\projectTemp.exe.config
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.exe
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.pdb
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\projectTemp.exe
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\projectTemp.pdb
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\AForge.dll
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\AForge.Video.dll
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\eVentoryLibraries.dll
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\MetroFramework.Design.dll
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\MetroFramework.dll
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\Mmosoft.Facebook.Sdk.dll
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\zxing.dll
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\zxing.presentation.dll
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\HtmlAgilityPack.dll
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\eVentoryLibraries.pdb
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\Mmosoft.Facebook.Sdk.pdb
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\AForge.xml
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\AForge.Video.xml
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\zxing.pdb
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\zxing.xml
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\zxing.presentation.pdb
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\zxing.presentation.xml
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\bin\Debug\HtmlAgilityPack.xml
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\obj\Debug\e-Ventory.csprojResolveAssemblyReference.cache
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.ticketscanner.resources
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.participants.resources
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.payment.resources
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.dashboard.resources
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.User_Control.addEvent.resources
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.Forms.announcementUserControl.resources
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.logIn_Form.resources
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.mainMenu_Form.resources
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.Properties.Resources.resources
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.signUp_Form.resources
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.User_Control.monitorEvent.resources
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.registration.resources
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\obj\Debug\projectTemp.User_Control.systemLogs.resources
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\projectTemp\obj\Debug\e-Ventory.csproj.GenerateResource.Cache

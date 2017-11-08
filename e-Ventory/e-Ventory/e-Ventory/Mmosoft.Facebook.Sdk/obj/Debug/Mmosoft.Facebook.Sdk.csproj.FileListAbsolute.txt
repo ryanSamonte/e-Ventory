@@ -1,0 +1,30 @@
+C:\Users\User\Downloads\Mmosoft.Facebook.Sdk-master (1)\Mmosoft.Facebook.Sdk-master\Mmosoft.Facebook.Sdk\bin\Debug\Mmosoft.Facebook.Sdk.dll
+C:\Users\User\Downloads\Mmosoft.Facebook.Sdk-master (1)\Mmosoft.Facebook.Sdk-master\Mmosoft.Facebook.Sdk\bin\Debug\Mmosoft.Facebook.Sdk.pdb
+C:\Users\User\Downloads\Mmosoft.Facebook.Sdk-master (1)\Mmosoft.Facebook.Sdk-master\Mmosoft.Facebook.Sdk\bin\Debug\HtmlAgilityPack.dll
+C:\Users\User\Downloads\Mmosoft.Facebook.Sdk-master (1)\Mmosoft.Facebook.Sdk-master\Mmosoft.Facebook.Sdk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Downloads\Mmosoft.Facebook.Sdk-master (1)\Mmosoft.Facebook.Sdk-master\Mmosoft.Facebook.Sdk\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\User\Downloads\Mmosoft.Facebook.Sdk-master (1)\Mmosoft.Facebook.Sdk-master\Mmosoft.Facebook.Sdk\bin\Debug\HtmlAgilityPack.xml
+C:\Users\User\Downloads\Mmosoft.Facebook.Sdk-master (1)\Mmosoft.Facebook.Sdk-master\Mmosoft.Facebook.Sdk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Downloads\Mmosoft.Facebook.Sdk-master (1)\Mmosoft.Facebook.Sdk-master\Mmosoft.Facebook.Sdk\obj\Debug\Mmosoft.Facebook.Sdk.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\Mmosoft.Facebook.Sdk-master (1)\Mmosoft.Facebook.Sdk-master\Mmosoft.Facebook.Sdk\obj\Debug\Mmosoft.Facebook.Sdk.dll
+C:\Users\User\Downloads\Mmosoft.Facebook.Sdk-master (1)\Mmosoft.Facebook.Sdk-master\Mmosoft.Facebook.Sdk\obj\Debug\Mmosoft.Facebook.Sdk.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\Mmosoft.Facebook.Sdk\bin\Debug\Mmosoft.Facebook.Sdk.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\Mmosoft.Facebook.Sdk\bin\Debug\Mmosoft.Facebook.Sdk.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\Mmosoft.Facebook.Sdk\bin\Debug\HtmlAgilityPack.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\Mmosoft.Facebook.Sdk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\Mmosoft.Facebook.Sdk\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\Mmosoft.Facebook.Sdk\bin\Debug\HtmlAgilityPack.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\Mmosoft.Facebook.Sdk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\Mmosoft.Facebook.Sdk\obj\Debug\Mmosoft.Facebook.Sdk.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\Mmosoft.Facebook.Sdk\obj\Debug\Mmosoft.Facebook.Sdk.pdb
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\Mmosoft.Facebook.Sdk\bin\Debug\Mmosoft.Facebook.Sdk.dll
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\Mmosoft.Facebook.Sdk\bin\Debug\Mmosoft.Facebook.Sdk.pdb
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\Mmosoft.Facebook.Sdk\bin\Debug\HtmlAgilityPack.dll
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\Mmosoft.Facebook.Sdk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\Mmosoft.Facebook.Sdk\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\Mmosoft.Facebook.Sdk\bin\Debug\HtmlAgilityPack.xml
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\Mmosoft.Facebook.Sdk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\Mmosoft.Facebook.Sdk\obj\Debug\Mmosoft.Facebook.Sdk.csprojResolveAssemblyReference.cache
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\Mmosoft.Facebook.Sdk\obj\Debug\Mmosoft.Facebook.Sdk.dll
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\Mmosoft.Facebook.Sdk\obj\Debug\Mmosoft.Facebook.Sdk.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\Mmosoft.Facebook.Sdk\obj\Debug\Mmosoft.Facebook.Sdk.csprojResolveAssemblyReference.cache

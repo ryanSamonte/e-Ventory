@@ -1,0 +1,19 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\eVentoryLibraries\bin\Debug\eVentoryLibraries.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\eVentoryLibraries\bin\Debug\eVentoryLibraries.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\eVentoryLibraries\obj\Debug\eVentoryLibraries.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\eVentoryLibraries\obj\Debug\eVentoryLibraries.pdb
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\eVentoryLibraries\bin\Debug\eVentoryLibraries.dll
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\eVentoryLibraries\bin\Debug\eVentoryLibraries.pdb
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\eVentoryLibraries\obj\Debug\eVentoryLibraries.csprojResolveAssemblyReference.cache
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\eVentoryLibraries\obj\Debug\eVentoryLibraries.dll
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\eVentoryLibraries\obj\Debug\eVentoryLibraries.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\eVentoryLibraries\bin\Debug\eVentoryLibraries.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\eVentoryLibraries\bin\Debug\eVentoryLibraries.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\eVentoryLibraries\obj\Debug\eVentoryLibraries.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\eVentoryLibraries\obj\Debug\eVentoryLibraries.pdb
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\eVentoryLibraries\bin\Debug\eVentoryLibraries.dll
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\eVentoryLibraries\bin\Debug\eVentoryLibraries.pdb
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\eVentoryLibraries\obj\Debug\eVentoryLibraries.csprojResolveAssemblyReference.cache
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\eVentoryLibraries\obj\Debug\eVentoryLibraries.dll
+C:\Users\John Roderick\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\eVentoryLibraries\obj\Debug\eVentoryLibraries.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\e-Ventory\e-Ventory\e-Ventory\eVentoryLibraries\obj\Debug\eVentoryLibraries.csprojResolveAssemblyReference.cache

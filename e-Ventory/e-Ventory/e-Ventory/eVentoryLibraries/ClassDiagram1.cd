@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="eVentoryLibraries.dataLib">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAIAEEAAgAAAAAAAAAAAAAAgAAgAiAAUBEAAAAAAAAA=</HashCode>
+      <FileName>dataLib.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="eVentoryLibraries.insertStatements">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQCAAAAAQQABAAAQAAAAAAAACAAAAAACAAA=</HashCode>
+      <FileName>insertStatements.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="eVentoryLibraries.validations">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAgAAAAAAAAQAAAAAAAAAAAAAGQ=</HashCode>
+      <FileName>validations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="eVentoryLibraries.deleteStatement">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAgAJAAAAAAAQAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>deleteStatements.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="eVentoryLibraries.updateStatement">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>updateStatement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
