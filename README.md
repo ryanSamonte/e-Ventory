@@ -4,8 +4,8 @@ This windows application was programmed using C# as the front-end language and M
 
 ### Developers
 
-Ryan Joseph Samonte
-Kenneth Canada
-John Roderick Pepino
-Bryan Julius Alano
-Lowell Jay Vasquez
+#Ryan Joseph Samonte
+#Kenneth Canada
+#John Roderick Pepino
+#Bryan Julius Alano
+#Lowell Jay Vasquez
